@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7cb3f5b1421e600fcb1dc85e46b8f3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/hema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8d96d37a36ef6cd4b4865fdc5783f757/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/eb49299377d358d45d07831890739883/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/af503dbfe959cfb7d7349c4aba68f225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4bb7aa8c1602815f0a5169d6638927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08fb936af1d7a9d6dba6c101c8f73e29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e41b9ee4921df5abc3f3434a4f813887/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cb7615db3bf7936cd81b309cf5ece571/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f959a223215ae5e480b695ab08e291dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7e8084035a926ebd1df41b364969b553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/40b0b3c17eab8c76c31e977270fd8e01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/401ba731eff33f75c6a50306b02a562f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9f27f0329bb72e383ad2b86719028ba2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/15f853ae4fa189986aa4f8992b2ef3f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/986e4c41926a7318d4bfb6c1e556bd11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdcc71acc172d1cc097c675e7ef4bf0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4801a8b073fccbb3ad20a87d686d8c3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/752844ecc223dd36df8bf70d39eb5e87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9de3342ad634754463f8e510f00df47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9a0ba1169b5e702c2be6a358c992c5e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6df4c05ba3051bca9e5a11b99dd4815/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ee1e7237c833c7c194442518c49ec5ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b44786633d8a6fd0fd27220fd128d497/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3175000564d4a2b3fde9e11279fe286c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f1e0f054a1d8e2cb9e0b27992fcaf8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b2c6af6a81bb8a2ce52ebac069e71716/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bde1532d9286b85730b42e1db2159f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/63ee7edb6219fe5c15ad524fe1f4ed2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ee98f3d64eb2f28816f695c6c67abfc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21697061c8a4d70f1479c5c663dcc56b/AndroidManifest.xml:17:1-25:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/hema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8d96d37a36ef6cd4b4865fdc5783f757/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/hema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8d96d37a36ef6cd4b4865fdc5783f757/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21697061c8a4d70f1479c5c663dcc56b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21697061c8a4d70f1479c5c663dcc56b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.android.bakingapp.MainActivity
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:launchMode
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.android.bakingapp.RecipeDetailActivity
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:parentActivityName
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:24:13-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:28:13-42
+	android:name
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml:27:13-59
+uses-sdk
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7cb3f5b1421e600fcb1dc85e46b8f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b7cb3f5b1421e600fcb1dc85e46b8f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/hema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8d96d37a36ef6cd4b4865fdc5783f757/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/hema/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8d96d37a36ef6cd4b4865fdc5783f757/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/eb49299377d358d45d07831890739883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/eb49299377d358d45d07831890739883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/af503dbfe959cfb7d7349c4aba68f225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/af503dbfe959cfb7d7349c4aba68f225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4bb7aa8c1602815f0a5169d6638927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4bb7aa8c1602815f0a5169d6638927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08fb936af1d7a9d6dba6c101c8f73e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08fb936af1d7a9d6dba6c101c8f73e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e41b9ee4921df5abc3f3434a4f813887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e41b9ee4921df5abc3f3434a4f813887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cb7615db3bf7936cd81b309cf5ece571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cb7615db3bf7936cd81b309cf5ece571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f959a223215ae5e480b695ab08e291dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f959a223215ae5e480b695ab08e291dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7e8084035a926ebd1df41b364969b553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7e8084035a926ebd1df41b364969b553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/40b0b3c17eab8c76c31e977270fd8e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/40b0b3c17eab8c76c31e977270fd8e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/401ba731eff33f75c6a50306b02a562f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/401ba731eff33f75c6a50306b02a562f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9f27f0329bb72e383ad2b86719028ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9f27f0329bb72e383ad2b86719028ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/15f853ae4fa189986aa4f8992b2ef3f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/15f853ae4fa189986aa4f8992b2ef3f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/986e4c41926a7318d4bfb6c1e556bd11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/986e4c41926a7318d4bfb6c1e556bd11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdcc71acc172d1cc097c675e7ef4bf0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdcc71acc172d1cc097c675e7ef4bf0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4801a8b073fccbb3ad20a87d686d8c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4801a8b073fccbb3ad20a87d686d8c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/752844ecc223dd36df8bf70d39eb5e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/752844ecc223dd36df8bf70d39eb5e87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9de3342ad634754463f8e510f00df47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9de3342ad634754463f8e510f00df47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9a0ba1169b5e702c2be6a358c992c5e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9a0ba1169b5e702c2be6a358c992c5e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6cff43e3367097b1f116cf44a75c4aec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6df4c05ba3051bca9e5a11b99dd4815/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6df4c05ba3051bca9e5a11b99dd4815/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ee1e7237c833c7c194442518c49ec5ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ee1e7237c833c7c194442518c49ec5ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b44786633d8a6fd0fd27220fd128d497/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b44786633d8a6fd0fd27220fd128d497/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3175000564d4a2b3fde9e11279fe286c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3175000564d4a2b3fde9e11279fe286c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f1e0f054a1d8e2cb9e0b27992fcaf8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f1e0f054a1d8e2cb9e0b27992fcaf8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b2c6af6a81bb8a2ce52ebac069e71716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b2c6af6a81bb8a2ce52ebac069e71716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bde1532d9286b85730b42e1db2159f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0bde1532d9286b85730b42e1db2159f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/63ee7edb6219fe5c15ad524fe1f4ed2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hema/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/63ee7edb6219fe5c15ad524fe1f4ed2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ee98f3d64eb2f28816f695c6c67abfc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ee98f3d64eb2f28816f695c6c67abfc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21697061c8a4d70f1479c5c663dcc56b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hema/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21697061c8a4d70f1479c5c663dcc56b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hema/AndroidStudioProjects/BakingApp/app/src/main/AndroidManifest.xml
